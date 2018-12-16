@@ -1,1 +1,9 @@
 c:\users\hp\documents\visual studio 2015\Projects\windowsForm_Pixel_RGB\windowsForm_Pixel_RGB\bin\Debug\windowsForm_Pixel_RGB.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\windowsForm_Pixel_RGB\windowsForm_Pixel_RGB\bin\Debug\windowsForm_Pixel_RGB.exe
+c:\users\hp\documents\visual studio 2015\Projects\windowsForm_Pixel_RGB\windowsForm_Pixel_RGB\bin\Debug\windowsForm_Pixel_RGB.pdb
+c:\users\hp\documents\visual studio 2015\Projects\windowsForm_Pixel_RGB\windowsForm_Pixel_RGB\obj\Debug\windowsForm_Pixel_RGB.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\windowsForm_Pixel_RGB\windowsForm_Pixel_RGB\obj\Debug\windowsForm_Pixel_RGB.Form1.resources
+c:\users\hp\documents\visual studio 2015\Projects\windowsForm_Pixel_RGB\windowsForm_Pixel_RGB\obj\Debug\windowsForm_Pixel_RGB.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\windowsForm_Pixel_RGB\windowsForm_Pixel_RGB\obj\Debug\windowsForm_Pixel_RGB.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\windowsForm_Pixel_RGB\windowsForm_Pixel_RGB\obj\Debug\windowsForm_Pixel_RGB.exe
+c:\users\hp\documents\visual studio 2015\Projects\windowsForm_Pixel_RGB\windowsForm_Pixel_RGB\obj\Debug\windowsForm_Pixel_RGB.pdb
